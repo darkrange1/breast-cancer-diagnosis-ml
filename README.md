@@ -3,7 +3,7 @@
 Bu proje, **Wisconsin Breast Cancer (Diagnostic)** veri setini kullanarak, hücre özelliklerine dayalı olarak meme kanseri tümörlerini **İyi Huylu (Benign)** veya **Kötü Huylu (Malignant)** olarak sınıflandırmayı amaçlayan bir Makine Öğrenmesi uygulamasıdır.
 
 ## 📂 Veri Seti
-Projede kullanılan veri seti [Kaggle]([https://www.kaggle.com/uciml/breast-cancer-wisconsin-data](https://www.kaggle.com/datasets/erdemtaha/cancer-data)) platformundan temin edilmiştir.
+Projede kullanılan veri seti [Kaggle](https://www.kaggle.com/datasets/erdemtaha/cancer-data) platformundan temin edilmiştir.
 - **Örnek Sayısı:** 569
 - **Özellik Sayısı:** 33 (Yarıçap, Doku, Çevre, Alan vb.)
 - **Hedef:** M (Malignant - Kötü) / B (Benign - İyi)
