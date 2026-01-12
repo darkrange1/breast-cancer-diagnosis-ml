@@ -12,7 +12,7 @@ Projede kullanılan veri seti [Kaggle](https://www.kaggle.com/datasets/erdemtaha
 Proje **Python** dili ile geliştirilmiştir.
 - **Veri Analizi:** Pandas, NumPy
 - **Görselleştirme:** Matplotlib, Seaborn
-- **Makine Öğrenmesi:** Scikit-learn (Logistic Regression, Random Forest)
+- **Makine Öğrenmesi:** Scikit-learn (Logistic Regression, Random Forest).
 
 ## 📊 Proje Adımları
 1. **Veri Keşfi (EDA):** Eksik veri kontrolü, aykırı değer analizi (Boxplot) ve korelasyon haritası incelenmesi.
