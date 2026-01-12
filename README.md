@@ -1,6 +1,6 @@
 # 🎗️ Meme Kanseri Teşhisi (Breast Cancer Prediction)
 
-Bu proje, **Wisconsin Breast Cancer (Diagnostic)** veri setini kullanarak, hücre özelliklerine dayalı olarak meme kanseri tümörlerini **İyi Huylu (Benign)** veya **Kötü Huylu (Malignant)** olarak sınıflandırmayı amaçlayan bir Makine Öğrenmesi uygulamasıdır.
+Bu proje, **🦠 Breast Cancer Data Set** veri setini kullanarak, hücre özelliklerine dayalı olarak meme kanseri tümörlerini **İyi Huylu (Benign)** veya **Kötü Huylu (Malignant)** olarak sınıflandırmayı amaçlayan bir Makine Öğrenmesi uygulamasıdır.
 
 ## 📂 Veri Seti
 Projede kullanılan veri seti [Kaggle](https://www.kaggle.com/datasets/erdemtaha/cancer-data) platformundan temin edilmiştir.
